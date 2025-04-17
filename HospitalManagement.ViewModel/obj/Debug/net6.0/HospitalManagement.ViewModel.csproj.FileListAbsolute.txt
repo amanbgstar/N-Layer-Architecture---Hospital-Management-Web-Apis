@@ -28,3 +28,19 @@ C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.ViewModel\obj\Debug\ne
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.ViewModel\obj\Debug\net6.0\refint\HospitalManagement.ViewModel.dll
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.ViewModel\obj\Debug\net6.0\HospitalManagement.ViewModel.pdb
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.ViewModel\obj\Debug\net6.0\ref\HospitalManagement.ViewModel.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\bin\Debug\net6.0\HospitalManagement.ViewModel.deps.json
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\bin\Debug\net6.0\HospitalManagement.ViewModel.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\bin\Debug\net6.0\HospitalManagement.ViewModel.pdb
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\bin\Debug\net6.0\HospitalManagement.Domain.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\bin\Debug\net6.0\HospitalManagement.Domain.pdb
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\obj\Debug\net6.0\HospitalManagement.ViewModel.csproj.AssemblyReference.cache
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\obj\Debug\net6.0\HospitalManagement.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\obj\Debug\net6.0\HospitalManagement.ViewModel.AssemblyInfoInputs.cache
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\obj\Debug\net6.0\HospitalManagement.ViewModel.AssemblyInfo.cs
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\obj\Debug\net6.0\HospitalManagement.ViewModel.csproj.CoreCompileInputs.cache
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\obj\Debug\net6.0\HospitalManagement.ViewModel.sourcelink.json
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\obj\Debug\net6.0\Hospital.BC3559F4.Up2Date
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\obj\Debug\net6.0\HospitalManagement.ViewModel.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\obj\Debug\net6.0\refint\HospitalManagement.ViewModel.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\obj\Debug\net6.0\HospitalManagement.ViewModel.pdb
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.ViewModel\obj\Debug\net6.0\ref\HospitalManagement.ViewModel.dll

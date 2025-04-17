@@ -22,3 +22,16 @@ C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Domain\obj\Debug\net6.
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Domain\obj\Debug\net6.0\refint\HospitalManagement.Domain.dll
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.pdb
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Domain\obj\Debug\net6.0\ref\HospitalManagement.Domain.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\bin\Debug\net6.0\HospitalManagement.Domain.deps.json
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\bin\Debug\net6.0\HospitalManagement.Domain.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\bin\Debug\net6.0\HospitalManagement.Domain.pdb
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.csproj.AssemblyReference.cache
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.AssemblyInfoInputs.cache
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.AssemblyInfo.cs
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.csproj.CoreCompileInputs.cache
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.sourcelink.json
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\obj\Debug\net6.0\refint\HospitalManagement.Domain.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.pdb
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Domain\obj\Debug\net6.0\ref\HospitalManagement.Domain.dll

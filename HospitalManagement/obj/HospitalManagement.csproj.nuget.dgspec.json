@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\HospitalManagement.csproj": {}
+    "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement\\HospitalManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
+    "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
+        "projectUniqueName": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
         "projectName": "HospitalManagement.Domain",
-        "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\obj\\",
+        "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\AmanGaidhane\\.nuget\\packages\\",
+        "outputPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AmanGaidhane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\PROJECTS\\COLOPLAST PROACT\\Telerik": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +45,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -70,21 +77,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj": {
+    "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj",
+        "projectUniqueName": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj",
         "projectName": "HospitalManagement.Repository",
-        "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Repository\\obj\\",
+        "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj",
+        "packagesPath": "C:\\Users\\AmanGaidhane\\.nuget\\packages\\",
+        "outputPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AmanGaidhane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,14 +103,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\PROJECTS\\COLOPLAST PROACT\\Telerik": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj"
+              "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
+                "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj"
               }
             }
           }
@@ -113,7 +126,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -140,21 +154,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Service\\HospitalManagement.Service.csproj": {
+    "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Service\\HospitalManagement.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Service\\HospitalManagement.Service.csproj",
+        "projectUniqueName": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Service\\HospitalManagement.Service.csproj",
         "projectName": "HospitalManagement.Service",
-        "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Service\\HospitalManagement.Service.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Service\\obj\\",
+        "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Service\\HospitalManagement.Service.csproj",
+        "packagesPath": "C:\\Users\\AmanGaidhane\\.nuget\\packages\\",
+        "outputPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AmanGaidhane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,17 +180,19 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\PROJECTS\\COLOPLAST PROACT\\Telerik": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj"
+              "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj": {
+                "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Repository\\HospitalManagement.Repository.csproj"
               },
-              "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj"
+              "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj": {
+                "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj"
               }
             }
           }
@@ -186,7 +206,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -213,21 +234,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj": {
+    "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj",
+        "projectUniqueName": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj",
         "projectName": "HospitalManagement.ViewModel",
-        "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\obj\\",
+        "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\AmanGaidhane\\.nuget\\packages\\",
+        "outputPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.ViewModel\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AmanGaidhane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,14 +260,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\PROJECTS\\COLOPLAST PROACT\\Telerik": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj"
+              "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
+                "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj"
               }
             }
           }
@@ -256,7 +283,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -283,21 +311,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\HospitalManagement.csproj": {
+    "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement\\HospitalManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\HospitalManagement.csproj",
+        "projectUniqueName": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement\\HospitalManagement.csproj",
         "projectName": "HospitalManagement",
-        "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\HospitalManagement.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\obj\\",
+        "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement\\HospitalManagement.csproj",
+        "packagesPath": "C:\\Users\\AmanGaidhane\\.nuget\\packages\\",
+        "outputPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AmanGaidhane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -305,20 +337,22 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\PROJECTS\\COLOPLAST PROACT\\Telerik": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj"
+              "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
+                "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj"
               },
-              "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Service\\HospitalManagement.Service.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Service\\HospitalManagement.Service.csproj"
+              "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Service\\HospitalManagement.Service.csproj": {
+                "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Service\\HospitalManagement.Service.csproj"
               },
-              "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj"
+              "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj": {
+                "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj"
               }
             }
           }
@@ -332,7 +366,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -355,6 +390,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -380,7 +419,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

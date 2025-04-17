@@ -487,7 +487,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8"
         },
         "runtime": {
-          "HospitalManagement.Domain.dll": {}
+          "HospitalManagement.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "HospitalManagement.Repository/1.0.0": {
@@ -496,7 +499,10 @@
           "HospitalManagement.Domain": "1.0.0"
         },
         "runtime": {
-          "HospitalManagement.Repository.dll": {}
+          "HospitalManagement.Repository.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "HospitalManagement.ViewModel/1.0.0": {
@@ -505,7 +511,10 @@
           "HospitalManagement.Domain": "1.0.0"
         },
         "runtime": {
-          "HospitalManagement.ViewModel.dll": {}
+          "HospitalManagement.ViewModel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

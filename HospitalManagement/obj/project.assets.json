@@ -558,6 +558,19 @@
           }
         }
       },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/6.2.3": {
         "type": "package",
         "dependencies": {
@@ -1767,6 +1780,36 @@
         "version.txt"
       ]
     },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "Swashbuckle.AspNetCore/6.2.3": {
       "sha512": "cnzQDn0Le+hInsw2SYwlOhOCPXpYi/szcvnyqZJ12v+QyrLBwAmWXBg6RIyHB18s/mLeywC+Rg2O9ndz0IUNYQ==",
       "type": "package",
@@ -2362,23 +2405,29 @@
       "Microsoft.EntityFrameworkCore >= 6.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.8",
+      "Newtonsoft.Json >= 13.0.3",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\AmanGaidhane\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\HospitalManagement.csproj",
+      "projectUniqueName": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement\\HospitalManagement.csproj",
       "projectName": "HospitalManagement",
-      "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\HospitalManagement.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\obj\\",
+      "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement\\HospitalManagement.csproj",
+      "packagesPath": "C:\\Users\\AmanGaidhane\\.nuget\\packages\\",
+      "outputPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AmanGaidhane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2386,20 +2435,22 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "D:\\PROJECTS\\COLOPLAST PROACT\\Telerik": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj"
+            "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
+              "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Service\\HospitalManagement.Service.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Service\\HospitalManagement.Service.csproj"
+            "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Service\\HospitalManagement.Service.csproj": {
+              "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Service\\HospitalManagement.Service.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj"
+            "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj": {
+              "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj"
             }
           }
         }
@@ -2413,7 +2464,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net6.0": {
@@ -2436,6 +2488,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[6.0.8, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
@@ -2461,7 +2517,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

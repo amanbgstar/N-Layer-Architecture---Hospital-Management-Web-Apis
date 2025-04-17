@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\Migrations\\Migrations.csproj": {}
+    "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\Migrations\\Migrations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
+    "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
+        "projectUniqueName": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
         "projectName": "HospitalManagement.Domain",
-        "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\obj\\",
+        "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\AmanGaidhane\\.nuget\\packages\\",
+        "outputPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AmanGaidhane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\PROJECTS\\COLOPLAST PROACT\\Telerik": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +45,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -70,21 +77,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\Migrations\\Migrations.csproj": {
+    "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\Migrations\\Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\Migrations\\Migrations.csproj",
+        "projectUniqueName": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\Migrations\\Migrations.csproj",
         "projectName": "Migrations",
-        "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\Migrations\\Migrations.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\Migrations\\obj\\",
+        "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\Migrations\\Migrations.csproj",
+        "packagesPath": "C:\\Users\\AmanGaidhane\\.nuget\\packages\\",
+        "outputPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\Migrations\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AmanGaidhane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,14 +103,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\PROJECTS\\COLOPLAST PROACT\\Telerik": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\HospitalManagement\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj"
+              "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
+                "projectPath": "D:\\amangaidhane\\Dot Net Project\\layer_architecture\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj"
               }
             }
           }
@@ -113,7 +126,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -140,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

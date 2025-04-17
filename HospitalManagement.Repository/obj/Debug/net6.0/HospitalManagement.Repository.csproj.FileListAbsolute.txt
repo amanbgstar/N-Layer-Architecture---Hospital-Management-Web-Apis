@@ -28,3 +28,19 @@ C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Repository\obj\Debug\n
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Repository\obj\Debug\net6.0\refint\HospitalManagement.Repository.dll
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.pdb
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Repository\obj\Debug\net6.0\ref\HospitalManagement.Repository.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Repository.deps.json
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Repository.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Repository.pdb
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Domain.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\bin\Debug\net6.0\HospitalManagement.Domain.pdb
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.csproj.AssemblyReference.cache
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.AssemblyInfoInputs.cache
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.AssemblyInfo.cs
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.csproj.CoreCompileInputs.cache
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.sourcelink.json
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\obj\Debug\net6.0\Hospital.4D5486E7.Up2Date
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\obj\Debug\net6.0\refint\HospitalManagement.Repository.dll
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\obj\Debug\net6.0\HospitalManagement.Repository.pdb
+D:\amangaidhane\Dot Net Project\layer_architecture\HospitalManagement.Repository\obj\Debug\net6.0\ref\HospitalManagement.Repository.dll
