@@ -22,3 +22,16 @@ C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Domain\obj\Debug\net6.
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Domain\obj\Debug\net6.0\refint\HospitalManagement.Domain.dll
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.pdb
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Domain\obj\Debug\net6.0\ref\HospitalManagement.Domain.dll
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\bin\Debug\net6.0\HospitalManagement.Domain.deps.json
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\bin\Debug\net6.0\HospitalManagement.Domain.dll
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\bin\Debug\net6.0\HospitalManagement.Domain.pdb
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.csproj.AssemblyReference.cache
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.AssemblyInfoInputs.cache
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.AssemblyInfo.cs
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.csproj.CoreCompileInputs.cache
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.sourcelink.json
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.dll
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\obj\Debug\net6.0\refint\HospitalManagement.Domain.dll
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\obj\Debug\net6.0\HospitalManagement.Domain.pdb
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Domain\obj\Debug\net6.0\ref\HospitalManagement.Domain.dll
