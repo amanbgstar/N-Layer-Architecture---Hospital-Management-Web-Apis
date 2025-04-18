@@ -1,3 +1,4 @@
+using Hl7.Fhir.Serialization;
 using HospitalManagement.Domain.Context;
 using HospitalManagement.Repository.LabTestRepo;
 using HospitalManagement.Service;
@@ -19,8 +20,10 @@ UseSqlServer(builder.Configuration.GetConnectionString("ConnectionString"),
 x => x.MigrationsAssembly("Migrations")
 ));
 
+builder.Services.AddSingleton<FhirJsonSerializer>(new FhirJsonSerializer());
 builder.Services.AddScoped<IPatientRepository, PatientRepository>();
 builder.Services.AddTransient<IPatientService, PatientService>();
+builder.Services.AddTransient<IPrescriptionService, PrescriptionService>();
 builder.Services.AddScoped<ILabtestRepo, LabtestRepo>();
 
 
