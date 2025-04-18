@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5016A8-12A0-42F5-9520-7117B6DB9B16}|HospitalManagement\\HospitalManagement.csproj|d:\\fhir resourses\\n-layer-architecture---hospital-management-web-apis\\hospitalmanagement\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5016A8-12A0-42F5-9520-7117B6DB9B16}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5016A8-12A0-42F5-9520-7117B6DB9B16}|HospitalManagement\\HospitalManagement.csproj|d:\\fhir resourses\\n-layer-architecture---hospital-management-web-apis\\hospitalmanagement\\controllers\\eps\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5016A8-12A0-42F5-9520-7117B6DB9B16}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\eps\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrescriptionController.cs",
+              "DocumentMoniker": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
+              "ToolTip": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:30:42.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrescriptionController.cs",
+              "DocumentMoniker": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\Controllers\\PrescriptionController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\PrescriptionController.cs",
+              "ToolTip": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\Controllers\\PrescriptionController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\PrescriptionController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:30:24.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
