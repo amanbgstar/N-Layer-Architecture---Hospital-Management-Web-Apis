@@ -36,3 +36,23 @@ C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Service\obj\Debug\net6
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Service\obj\Debug\net6.0\refint\HospitalManagement.Service.dll
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Service\obj\Debug\net6.0\HospitalManagement.Service.pdb
 C:\Users\HP\Desktop\HospitalManagement\HospitalManagement.Service\obj\Debug\net6.0\ref\HospitalManagement.Service.dll
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\bin\Debug\net6.0\HospitalManagement.Service.deps.json
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\bin\Debug\net6.0\HospitalManagement.Service.dll
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\bin\Debug\net6.0\HospitalManagement.Service.pdb
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\bin\Debug\net6.0\HospitalManagement.Domain.dll
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\bin\Debug\net6.0\HospitalManagement.Repository.dll
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\bin\Debug\net6.0\HospitalManagement.ViewModel.dll
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\bin\Debug\net6.0\HospitalManagement.Repository.pdb
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\bin\Debug\net6.0\HospitalManagement.ViewModel.pdb
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\bin\Debug\net6.0\HospitalManagement.Domain.pdb
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\obj\Debug\net6.0\HospitalManagement.Service.csproj.AssemblyReference.cache
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\obj\Debug\net6.0\HospitalManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\obj\Debug\net6.0\HospitalManagement.Service.AssemblyInfoInputs.cache
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\obj\Debug\net6.0\HospitalManagement.Service.AssemblyInfo.cs
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\obj\Debug\net6.0\HospitalManagement.Service.csproj.CoreCompileInputs.cache
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\obj\Debug\net6.0\HospitalManagement.Service.sourcelink.json
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\obj\Debug\net6.0\Hospital.655AAE72.Up2Date
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\obj\Debug\net6.0\HospitalManagement.Service.dll
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\obj\Debug\net6.0\refint\HospitalManagement.Service.dll
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\obj\Debug\net6.0\HospitalManagement.Service.pdb
+D:\FHIR Resourses\N-Layer-Architecture---Hospital-Management-Web-Apis\HospitalManagement.Service\obj\Debug\net6.0\ref\HospitalManagement.Service.dll
