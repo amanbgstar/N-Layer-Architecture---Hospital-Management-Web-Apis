@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8F5016A8-12A0-42F5-9520-7117B6DB9B16}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A6D0D136-3275-410A-B5AC-DAB3EF1EAC75}|HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj|d:\\fhir resourses\\n-layer-architecture---hospital-management-web-apis\\hospitalmanagement.viewmodel\\prescriptionrequest\\acuteprescriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0D136-3275-410A-B5AC-DAB3EF1EAC75}|HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj|solutionrelative:hospitalmanagement.viewmodel\\prescriptionrequest\\acuteprescriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F5016A8-12A0-42F5-9520-7117B6DB9B16}|HospitalManagement\\HospitalManagement.csproj|d:\\fhir resourses\\n-layer-architecture---hospital-management-web-apis\\hospitalmanagement\\controllers\\eps\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F5016A8-12A0-42F5-9520-7117B6DB9B16}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\eps\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AcutePrescriptionRequest.cs",
+              "DocumentMoniker": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\PrescriptionRequest\\AcutePrescriptionRequest.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.ViewModel\\PrescriptionRequest\\AcutePrescriptionRequest.cs",
+              "ToolTip": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\PrescriptionRequest\\AcutePrescriptionRequest.cs",
+              "RelativeToolTip": "HospitalManagement.ViewModel\\PrescriptionRequest\\AcutePrescriptionRequest.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAvwGMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:38:40.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PrescriptionController.cs",
               "DocumentMoniker": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
               "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
               "ToolTip": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
               "RelativeToolTip": "HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwD0AAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T20:30:42.36Z",
               "EditorCaption": ""
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\PrescriptionController.cs",
               "ToolTip": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\Controllers\\PrescriptionController.cs",
               "RelativeToolTip": "HospitalManagement\\Controllers\\PrescriptionController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T20:30:24.436Z",
               "EditorCaption": ""

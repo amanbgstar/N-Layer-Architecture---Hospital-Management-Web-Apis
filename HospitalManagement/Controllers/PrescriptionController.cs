@@ -15,6 +15,7 @@ namespace HospitalManagement.Controllers
     public class PrescriptionController : ControllerBase
     {
         private readonly string _epsPrepareEndpoint = "https://sandbox.api.service.nhs.uk/electronic-prescriptions/FHIR/R4/$prepare";
+        /*private readonly string _epsPrepareEndpoint = "https://int.api.service.nhs.uk/electronic-prescriptions/FHIR/R4/$prepare";*/
         private readonly HttpClient _httpClient;
         private readonly IPrescriptionService _fhirResourceBuilder;
         private readonly FhirJsonSerializer _fhirJsonSerializer;
@@ -26,7 +27,7 @@ namespace HospitalManagement.Controllers
             _fhirJsonSerializer = new FhirJsonSerializer();
         }
 
-        [HttpPost("EncodeAcutePrescriptionAndReturnSign")]
+        [HttpPost("EncodeAcutePrescription")]
         public async Task<IActionResult> EncodeAcutePrescriptionAndReturnSign([FromBody] AcutePrescriptionRequest request)
         {
             try
@@ -51,6 +52,7 @@ namespace HospitalManagement.Controllers
 
                 _httpClient.DefaultRequestHeaders.Accept.Clear();
                 _httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+                _httpClient.DefaultRequestHeaders.Add("Authorization", "Bearer g1112R_ccQ1Ebbb4gtHBP1aaaNM");
                 _httpClient.DefaultRequestHeaders.Add("X-Request-ID", Guid.NewGuid().ToString());
 
                 var response = await _httpClient.PostAsync(_epsPrepareEndpoint, content);

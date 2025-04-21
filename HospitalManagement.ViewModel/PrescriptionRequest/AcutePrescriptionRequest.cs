@@ -42,8 +42,7 @@ namespace HospitalManagement.ViewModel.PrescriptionRequest
         [Required]
         public string FamilyName { get; set; }
 
-        [Required, MinLength(1)]
-        public List<string> GivenNames { get; set; }
+        public List<string>? GivenNames { get; set; }
 
         public string Prefix { get; set; } // Made optional
 
@@ -102,9 +101,9 @@ namespace HospitalManagement.ViewModel.PrescriptionRequest
 
     public class Address
     {
-        public List<string> Line { get; set; }
-        public string City { get; set; } = string.Empty; // Make optional with default
-        public string District { get; set; } = string.Empty; // Make optional with default
+        public List<string>? Line { get; set; }
+        public string City { get; set; } = string.Empty; 
+        public string District { get; set; } = string.Empty; 
         public string PostalCode { get; set; }
     }
 }
