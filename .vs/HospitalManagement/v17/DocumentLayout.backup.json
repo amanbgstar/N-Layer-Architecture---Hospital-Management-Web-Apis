@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6D0D136-3275-410A-B5AC-DAB3EF1EAC75}|HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj|d:\\fhir resourses\\n-layer-architecture---hospital-management-web-apis\\hospitalmanagement.viewmodel\\prescriptionrequest\\acuteprescriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6D0D136-3275-410A-B5AC-DAB3EF1EAC75}|HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj|solutionrelative:hospitalmanagement.viewmodel\\prescriptionrequest\\acuteprescriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F5016A8-12A0-42F5-9520-7117B6DB9B16}|HospitalManagement\\HospitalManagement.csproj|d:\\fhir resourses\\n-layer-architecture---hospital-management-web-apis\\hospitalmanagement\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F5016A8-12A0-42F5-9520-7117B6DB9B16}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A6D0D136-3275-410A-B5AC-DAB3EF1EAC75}|HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj|d:\\fhir resourses\\n-layer-architecture---hospital-management-web-apis\\hospitalmanagement.viewmodel\\prescriptionrequest\\provenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0D136-3275-410A-B5AC-DAB3EF1EAC75}|HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj|solutionrelative:hospitalmanagement.viewmodel\\prescriptionrequest\\provenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0042B4-BE35-4406-95D6-FB8E9E2E11E6}|HospitalManagement.Service\\HospitalManagement.Service.csproj|d:\\fhir resourses\\n-layer-architecture---hospital-management-web-apis\\hospitalmanagement.service\\prescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0042B4-BE35-4406-95D6-FB8E9E2E11E6}|HospitalManagement.Service\\HospitalManagement.Service.csproj|solutionrelative:hospitalmanagement.service\\prescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F5016A8-12A0-42F5-9520-7117B6DB9B16}|HospitalManagement\\HospitalManagement.csproj|d:\\fhir resourses\\n-layer-architecture---hospital-management-web-apis\\hospitalmanagement\\controllers\\eps\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F5016A8-12A0-42F5-9520-7117B6DB9B16}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\eps\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D0D136-3275-410A-B5AC-DAB3EF1EAC75}|HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj|d:\\fhir resourses\\n-layer-architecture---hospital-management-web-apis\\hospitalmanagement.viewmodel\\prescriptionrequest\\acuteprescriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0D136-3275-410A-B5AC-DAB3EF1EAC75}|HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj|solutionrelative:hospitalmanagement.viewmodel\\prescriptionrequest\\acuteprescriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D0D136-3275-410A-B5AC-DAB3EF1EAC75}|HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj|d:\\fhir resourses\\n-layer-architecture---hospital-management-web-apis\\hospitalmanagement.viewmodel\\prescriptionrequest\\signingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0D136-3275-410A-B5AC-DAB3EF1EAC75}|HospitalManagement.ViewModel\\HospitalManagement.ViewModel.csproj|solutionrelative:hospitalmanagement.viewmodel\\prescriptionrequest\\signingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +42,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ProvenanceRequest.cs",
+              "DocumentMoniker": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\PrescriptionRequest\\ProvenanceRequest.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.ViewModel\\PrescriptionRequest\\ProvenanceRequest.cs",
+              "ToolTip": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\PrescriptionRequest\\ProvenanceRequest.cs",
+              "RelativeToolTip": "HospitalManagement.ViewModel\\PrescriptionRequest\\ProvenanceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:12:37.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SigningRequest.cs",
+              "DocumentMoniker": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\PrescriptionRequest\\SigningRequest.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.ViewModel\\PrescriptionRequest\\SigningRequest.cs",
+              "ToolTip": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\PrescriptionRequest\\SigningRequest.cs",
+              "RelativeToolTip": "HospitalManagement.ViewModel\\PrescriptionRequest\\SigningRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:47:47.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrescriptionService.cs",
+              "DocumentMoniker": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Service\\PrescriptionService.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.Service\\PrescriptionService.cs",
+              "ToolTip": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.Service\\PrescriptionService.cs",
+              "RelativeToolTip": "HospitalManagement.Service\\PrescriptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:53:45.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AcutePrescriptionRequest.cs",
               "DocumentMoniker": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\PrescriptionRequest\\AcutePrescriptionRequest.cs",
               "RelativeDocumentMoniker": "HospitalManagement.ViewModel\\PrescriptionRequest\\AcutePrescriptionRequest.cs",
               "ToolTip": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement.ViewModel\\PrescriptionRequest\\AcutePrescriptionRequest.cs",
               "RelativeToolTip": "HospitalManagement.ViewModel\\PrescriptionRequest\\AcutePrescriptionRequest.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAvwGMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T06:38:40.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PrescriptionController.cs",
               "DocumentMoniker": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
               "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
               "ToolTip": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
               "RelativeToolTip": "HospitalManagement\\Controllers\\EPS\\PrescriptionController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwD0AAAB9AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wBkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T20:30:42.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PrescriptionController.cs",
               "DocumentMoniker": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\Controllers\\PrescriptionController.cs",
               "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\PrescriptionController.cs",
               "ToolTip": "D:\\FHIR Resourses\\N-Layer-Architecture---Hospital-Management-Web-Apis\\HospitalManagement\\Controllers\\PrescriptionController.cs",
               "RelativeToolTip": "HospitalManagement\\Controllers\\PrescriptionController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAowBoAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwGgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T20:30:24.436Z",
               "EditorCaption": ""
